@@ -6,7 +6,7 @@
 
 There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices, and Enabling Financial Benefits. (A mnemonic: Fear, Love, and Money)
 
-**Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OPSO around the abatement of legal risk. 
+**Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OSPO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
 * Maintaining open source license compliance reviews and oversight
 * Running a review process for inbound code use 
